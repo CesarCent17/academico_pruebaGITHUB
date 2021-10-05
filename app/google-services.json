@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "300034833577",
+    "project_id": "academico-89418",
+    "storage_bucket": "academico-89418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300034833577:android:1629c11e5a69da5d9ffdb8",
+        "android_client_info": {
+          "package_name": "com.centurion.academico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300034833577-3lga5u7ouj0vd0df9jkuo9sdnm71pqsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.centurion.academico",
+            "certificate_hash": "cf2b5ff88f77706ddd5c2a98a817545d15c7deb4"
+          }
+        },
+        {
+          "client_id": "300034833577-ugosf471d9sbamhsk5k1v979fcb439h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAInkH-lZ3qWnId-p-d2sGSHje9D1ULV14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300034833577-ugosf471d9sbamhsk5k1v979fcb439h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
